@@ -1,2 +1,3 @@
-# html_new
-This is the new html repo for putting my html codes
+#Myntra Frontend
+
+This is the frontend code (HTML+CSS) of Myntra Shopping website.
